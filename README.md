@@ -10,7 +10,7 @@ The first exercise list covers the following topics:
 - Polynomial Regression
 - L2 Regularization
 
-T=The exercise in the first question involves implementing and evaluating regression models (OLS, GD, and SGD) on a dataset (artificial1d.csv) with two columns (x and y). The models' parameters, MSE, and resulting lines are presented. In the second question, the exercise focuses on a dataset used for predicting median house prices in California districts during the 1990s. It includes steps such as data splitting, training 13 polynomial regression models using OLS, and reporting RMSE for training and testing. L2 Regularization, data normalization, and the creation of graphs for training and testing are also incorporated.
+The exercise in the first question involves implementing and evaluating regression models (OLS, GD, and SGD) on a dataset (artificial1d.csv) with two columns (x and y). The models' parameters, MSE, and resulting lines are presented. In the second question, the exercise focuses on a dataset used for predicting median house prices in California districts during the 1990s. It includes steps such as data splitting, training 13 polynomial regression models using OLS, and reporting RMSE for training and testing. L2 Regularization, data normalization, and the creation of graphs for training and testing are also incorporated.
 
 [**Click here**](https://github.com/barbaraneves/masters-machine-learning-course/tree/main/Lista%201) to access the _Lista 1_ folder.
 
