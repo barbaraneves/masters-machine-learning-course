@@ -37,6 +37,18 @@ The exercise involves implementing and evaluating binary classification models u
 
 [**Click here**](https://github.com/barbaraneves/masters-machine-learning-course/tree/main/Lista%203) to access the _Lista 3_ folder.
 
+### List 4 - Artificial Neural Networks for Nonlinear Regression and Classification
+The forth exercise list covers the following topics:
+
+- Nonlinear Regression using MLP
+- Classification using MLP
+- Minibatch Stochastic Gradient Descent with Momentum
+- Model Evaluation Metrics
+
+This exercise list explores the application of Artificial Neural Networks in nonlinear regression and classification tasks. In question 1, a dataset on concrete properties is used to train and evaluate a nonlinear regression model. The model, based on a Multilayer Perceptron (MLP) with 1 hidden layer, is trained using minibatch stochastic gradient descent with momentum. The dataset is randomly split into training, validation, and test sets, and metrics such as RMSE, MAE, and MRE are reported. In question 2, a dataset on British speech samples is employed to train and evaluate a nonlinear classification model using a similar architecture. The accuracy is reported for the training, validation, and test sets. Both questions provide insights into the model's learning process through cost function curves over epochs.
+
+[**Click here**](https://github.com/barbaraneves/masters-machine-learning-course/tree/main/Lista%204) to access the _Lista 4_ folder.
+
 ## Repository Structure
 Each exercise list is stored in a separate folder in the repository. The folder name follows the pattern "_Lista X_", where _X_ is the list number.
 
