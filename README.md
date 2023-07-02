@@ -49,6 +49,16 @@ This exercise list explores the application of Artificial Neural Networks in non
 
 [**Click here**](https://github.com/barbaraneves/masters-machine-learning-course/tree/main/Lista%204) to access the _Lista 4_ folder.
 
+### List 5 - Binary Classification with SVM and Random Forest
+The fifth exercise list covers the following topics:
+
+- SVM with RBF Kernel and Grid-Search
+- Random Forest and Grid-Search
+
+The fifth exercise list focuses on binary classification using SVM and Random Forest models. It involves tuning the hyperparameters using grid-search and evaluating the models' performance on test data. The goal is to optimize the Accuracy, Recall, Precision, and F1-score metrics for predicting house prices in California districts during the 1990s. Additionally, plots were created for the ROC curve and the Precision-Recall curve. Existing implementations, such as those provided by Scikit-learn, were used for this task.
+
+[**Click here**](https://github.com/barbaraneves/masters-machine-learning-course/tree/main/Lista%205) to access the _Lista 5_ folder.
+
 ## Repository Structure
 Each exercise list is stored in a separate folder in the repository. The folder name follows the pattern "_Lista X_", where _X_ is the list number.
 
